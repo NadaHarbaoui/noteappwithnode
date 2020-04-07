@@ -1,0 +1,19 @@
+{
+  "name": "noteappnode",
+  "version": "1.0.0",
+  "description": "appnode",
+  "main": "app.js",
+  "dependencies": {
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "noteappwithnode"
+  },
+  "author": "nadou",
+  "license": "ISC"
+}
